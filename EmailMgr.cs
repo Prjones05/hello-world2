@@ -34,6 +34,7 @@ namespace RateAvailableServiceWebServiceClient
                 mMailBody = mMailBody + " \r\n \r\n\r\n \r\n";
                 mMailBody = mMailBody + " Esker";
                 mMailBody = mMailBody + " \r\n \r\n\r\n \r\n";
+                mMailBody = mMailBody + " \r\n \r\n\r\n \r\n";
 
 
                 mMailBody = mMailBody + "\r\n\t\t\t                                                       ";
